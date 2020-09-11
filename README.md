@@ -12,9 +12,10 @@ Work in Progress...
 Stay tuned to see the new posts!
 
 # Critique
-
+[Page link](https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/README.md)
 
 # Workshop
-
+[Page link](https://github.com/shreyassridar94/sridar-portfolio/blob/master/Workshop/README.md)
 
 # Project
+[Page link](https://github.com/shreyassridar94/sridar-portfolio/blob/master/Project/README.md)
