@@ -10,3 +10,11 @@ With massive amounts of data being collected everywhere in the world, it is impo
 # Portfolio
 Work in Progress...
 Stay tuned to see the new posts!
+
+# Critique
+
+
+# Workshop
+
+
+# Project
