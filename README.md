@@ -15,7 +15,7 @@ Stay tuned to see the new posts!
 [Page link](https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/README.md)
 
 # Workshop
-[Page link](/dataviz2.md)
+[Page link](/Workshop/dataviz2.md)
 
 # Project
 [Page link](https://github.com/shreyassridar94/sridar-portfolio/blob/master/Project/README.md)
