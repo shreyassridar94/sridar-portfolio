@@ -13,4 +13,6 @@
 
 ### Flourish: Alternate Visualization
 
+To create a new visualization for the government debts over a timeline, I chose the line chart. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/3758805" data-url="https://flo.uri.sh/visualisation/3758805/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
