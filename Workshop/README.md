@@ -13,6 +13,6 @@
 
 ### Flourish: Alternate Visualization
 
-To create a new visualization for the government debts over a timeline, I chose the line chart. 
+To create a new visualization for the government debts over a timeline, I chose the line chart. To avoid the tangled lines effect, I have used single color scheme of red color(for contrast) for the highlighted lines and gray color for the rest of the lines(background information). To provide clarity, the title of the visualization describes the idea intended to be conveyed.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3758805" data-url="https://flo.uri.sh/visualisation/3758805/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
