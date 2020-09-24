@@ -13,4 +13,9 @@ This chart serves the purpose of informing the audience about the high carbon fo
 
 The audience for the chart includes all members of TAMU, especially people who eat meals with meat. 
 
+### Data Visualization Critique
+I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to critique the data visualization I chose. This method of critiquing analyzes the visualization using 7 measures:
+- Informative
+--Usefulness:
+
 
