@@ -23,11 +23,11 @@ I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perce
       The chart scores poorly for its perceptability due to the multiple colors used which make it harder to focus on the right information. Also the leader lines used to denote the food type on the bar charts are difficult to follow. The data presented as a comparison to a mid-sized car journey is difficult to understand.
 - _Truthfulness_: What is the degree upto which the visualization is true and accurate?
       The chart is accurate in representing the data and I find no inconsistencies in the visualization.
--_Intuitiveness_: How easy is it to understand what the visualization is communicating?
+- _Intuitiveness_: How easy is it to understand what the visualization is communicating?
       The chart type used is a bar chart which is familiar. But the data represented is not intuitive to understand as the consumption of 110g of food is compared against a car journey. Also, it does not explain clearly on how to interpret.
--_Aesthetics_: How is the aesthetic quality of the visualization?
+- _Aesthetics_: How is the aesthetic quality of the visualization?
       The use of multiple colors is causing a distraction for the eye. Also, the leader lines for each label are difficult to follow and makes the visualization look clumsy
--_Engagement_: Does the visualization lead the audience to learn more about the topic?
+- _Engagement_: Does the visualization lead the audience to learn more about the topic?
       Due to the poor layout of the chart and multiple colors used, the visualization does not engage the user. Significant effort is required from the user to understand the chart which leads to poor engagement.
       
 ### Redesigning the Data Visualization
