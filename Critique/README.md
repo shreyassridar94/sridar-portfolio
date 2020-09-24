@@ -2,7 +2,8 @@
 
 ## Assignment 3 & 4
 
-For the assignment, I chose the following data visualization available in the [sustainability](http://sustainability.tamu.edu/why-4-d.aspx) initiative of the Texas A & M University. 
+### Data Visualization Chosen
+For this assignment, I chose the following data visualization available in the [sustainability](http://sustainability.tamu.edu/why-4-d.aspx) initiative of the Texas A & M University. 
 
 ![alt](http://sustainability.tamu.edu/Data/Sites/1/GalleryImages/EditorUploadImages/PledgeImages/4d.jpg)
 
