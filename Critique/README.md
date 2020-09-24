@@ -35,7 +35,7 @@ Based on my learnings from critiquing this visualization, I created wireframes t
 
 **Iteration 1:**
 
-<img src="https://lh3.googleusercontent.com/Mh38JMYYYCyktZemEb7xilRd4eS_oFcQ0-0NUfekeI8WCKKEK2mDp0o6I2U9h3nknWLPBQVdpts_5alIxmutKQ7MaJjJAMrEc7IrujOLbiMiZkUjFa0eZ-QlJMrSr45HO0B0WQt2--yyAmiPo4Gy_tiSlLntmZwhMA3DaZAWCsG2yEU29lanqhOYmBl2A523Z_aAQdQRG8XnweEJh-U02BHnAhJT3BsxvZv37S9oCOExXkMa5Gj2F6OkwvmyfL55my1Hp4tNCrW3IaiF_6PasN9gmwH32t8C4z6CdBCfSZToCZ8AJQ9pZkxOkLzRYeJJCTaImUlZhyaa2mSzWlpYDcNGVs1FCKd5sb4LTgRgN5rKV2OiP0pHdGrWIKdzgXGM_H6WbYl0-ceRqggnhYElzdv-98dxcdek0M-ixtKaQg0tZs_X9fFeZduGD2Hm7-mIc9a014I_urqm3hhD470hJh3JY9sTd0R6fvJnbYic5rhrFn6NZ0KsBeKkmo1B2UDzujaB9o8b56_Gw3VRWb_uJakV-gn2HnsylD5K2bw5HD1dT-Xj97ZzfylOFxgXJ8V5WHDJXbZ3SHea2JNpzGEngBQr0V3LOYw2dX3VVKKf0k3jFhmdaB9DRG1OPjQTvupH8lqwXZwie0yL-irqY7rR4epUUZMMZaXpaPkOV2bJs6sQBwVVER9_TfWlmlYrkA=w761-h915-no?authuser=0" width="400">
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/1.jpg?raw=true" width="800">
 
 __Feedback:__
 - The representation of red meat with red color is good
@@ -49,7 +49,7 @@ __Feedback:__
 
 **Iteration 2:**
 
-<img src="https://lh3.googleusercontent.com/a-Pf5Mh7XfnaGhk6mJx_-ymKYSZyR2EGUjEeo9Ywi4X2MZSl1c9uyZ-9qK_UbXtfHtkclfjqMXbamVCxGBypyRAZrGvLq9GRqDiXTKAULxSUoOgn-yNfErngWXmlJNXL2dybjH340wVhTRtqs3DrtXd3Z5TSVbu0KBJZsFBvx_YH4qaLO4ImSU9tHKmtOGlM3i99ky0rryWaqz_d6yPGx7_lIE2wX4ctI7KUw7RBEDN5kicpciX22JEa3wod8ZoMw3RxrvORUAB4Ms5n1nU89T1Bu2TfE6KUTo4huexhYljaOjabvHyAx7fdas7VDBQVDH-pLKrmapYSxacguQSjZ4IEkEML95dTfP8c2zdiFp0lm7w_ZiGe60xCvMLSk96V8VP9R1aOlI11LMK8tzibwxKnAelH99k_wjCRV65kZZgPeHtLuDA8-VHa4kcokMu8iqmUJVmC4a3Ya51wkFSZ3_i3Rghhk9SygpiRTXjSGfix5p2IqPblIue2YBcE67ODIWrWSyeQimIHEKDL8kByuFwC3cuJQnSi777jLO-_TFIoMXSZr8qGZ_cVBfjZkvIYwcH8gtKmPek2CxNEUw5NMBtr9w7epKZ5_RC53V775u26YHQnYE-KMQAdwLZfNE9ISdsMbo6EP-zEwxecsCWmeCvYQMUzAiUlcgbjLkrP0_-V3OqHPxlVnDJvgoIsGg=w900-h915-no?authuser=0" width="400">
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/2.jpg?raw=true" width="800">
 
 __Feedback:__
 - The x-axis scale is helpful but the analogy is difficult to perceive
@@ -57,7 +57,7 @@ __Feedback:__
 
 **Iteration 3:**
 
-<img src="https://lh3.googleusercontent.com/Ca5tpqy_byXGSLhaLI_y2PFTVvthqcKVjLl69jrvN-gOlMuIRw5DdJjtbO6qRx1dZjegERvsHGVDmbZdvrGYZZayIHeAgPVauYjViOJdeHtVuMEnT1Dvl_0kld_Mws60lmbQX2pzvzDrgj5_MweMXhDgYr0OEJhYXMSEfOwN5IQ1t0EQmk8MejxlU4FV3RFt23qovPN1AxflyrauTjPp4FP5qzuBF9j6M7OCch4qVdcwR2myXo7qVI-457PtwmVni2ZQAOHhTvTdjKHDrpadBtU3QGE03yloKzBWj2gDVQjIuINy9GDbHmpfoGSIkhPWYxdjzB5kLBgm7T-Uz6tssj_b2NWQCb2s0gW1SiTQ4ZiyzOVf1Q15H5_wW6PhU1I7JzDcs3l4C-3Xe0-GrSyfnaAsIlNFT5-IY-T4_QvW2sdrLvkd61XC-7UDkxT0R8uohpRSooO56FQDdeQrWYKRypTAKRfCwUwAlfIrGa1sD78kKzwltOt0kMU5P6MSLZu6yNtzr-B_xS6spVFAyxvSFY-FnLEtGJRZIxrJwdVNa0b18qxYXI6VmSWiLQJwg7wJYlX9urkJKaPd0fJ5PRuCdgQ5DkcUe2E1qpA2wWlGXHXdHSgpM6vmmieC9QE1Tblqx3xdz2EJdwSxCiMd7fAXy9sQCKPeo8iaRec_Ch0qE_9gBJM2KaKxKZnGuqEtUw=w951-h915-no?authuser=0" width="400">
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/3.jpg?raw=true" width="800">
 
 __Feedback:__
 - The data representation is clear
@@ -67,7 +67,7 @@ __Feedback:__
 
 **Iteration 4:**
 
-<img src="https://lh3.googleusercontent.com/WY6gXKQ90IdS1xtTO4k_itO-390vumfq-LXHkM6JJKzgb6RrmcNxVHVMes24rUYuSaABZUODpDF6F-wBmTlBbaYQZ1N-APrmlHnGOWZiQocmv0kGJdZPeXk0cSF77ub_cJopK9O5Tad2jJuYY_2skNwnxIrmO9nuPkTk3R3CQTMim_aF6iGEIrW6TpAMU18kAge40J0NskLyMLarAskO5udlA0A6aA_YB4j1zh6XfmyP7Igyg0dtVfQwuxGjQbEdhD2Rhg5g0i8bOFAeII33BVLHAOj-k_Qpu8QeGVaImSnE9NjCe7b3kHil5xYB4OUPWSaLKWW-YLyxxQ-DFWNXdNiceYOywnYjYLFaIqD82dXXRECFWyb2o_9rAWIDyum960xi14dTYEC7XoPEBL0UwvVcYtE5qdAgDl1jCh7YzPIl439QzpKEaMm_KXfzGpLw4XUjUagARh61b9lctZA4KFLCJE4dvLuGGOOSnyT2s6RZ60I9Keg2RbCoXIbZ6-NvwfcVeaIwsuV-Mh8tabwOTuDs-BAz9dMyjxgdKtHn1etg8fc1z9OSJoHmYKHOial5TSkrZxKnhT_kL36f2wN0S0F86iULAO8eJwxgctbPPiMIevJxKrBVxt79W85CysWniDuBYSW3P6rzjZJ3dXuhajCJV6jI9hqpgKaKVdcMU1KfdZqdj_fyfhQ8Ow0oqg=w930-h915-no?authuser=0" width="400">
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/4.jpg?raw=true" width="800">
 
 __Feedback:__
 - The visualization is simple and understandable.
