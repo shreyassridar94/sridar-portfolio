@@ -35,7 +35,7 @@ Based on my learnings from critiquing this visualization, I created wireframes t
 
 **Iteration 1:**
 
-<img src="/Critique/Images/1.jpg" width="400">
+<img src="https://lh3.googleusercontent.com/Mh38JMYYYCyktZemEb7xilRd4eS_oFcQ0-0NUfekeI8WCKKEK2mDp0o6I2U9h3nknWLPBQVdpts_5alIxmutKQ7MaJjJAMrEc7IrujOLbiMiZkUjFa0eZ-QlJMrSr45HO0B0WQt2--yyAmiPo4Gy_tiSlLntmZwhMA3DaZAWCsG2yEU29lanqhOYmBl2A523Z_aAQdQRG8XnweEJh-U02BHnAhJT3BsxvZv37S9oCOExXkMa5Gj2F6OkwvmyfL55my1Hp4tNCrW3IaiF_6PasN9gmwH32t8C4z6CdBCfSZToCZ8AJQ9pZkxOkLzRYeJJCTaImUlZhyaa2mSzWlpYDcNGVs1FCKd5sb4LTgRgN5rKV2OiP0pHdGrWIKdzgXGM_H6WbYl0-ceRqggnhYElzdv-98dxcdek0M-ixtKaQg0tZs_X9fFeZduGD2Hm7-mIc9a014I_urqm3hhD470hJh3JY9sTd0R6fvJnbYic5rhrFn6NZ0KsBeKkmo1B2UDzujaB9o8b56_Gw3VRWb_uJakV-gn2HnsylD5K2bw5HD1dT-Xj97ZzfylOFxgXJ8V5WHDJXbZ3SHea2JNpzGEngBQr0V3LOYw2dX3VVKKf0k3jFhmdaB9DRG1OPjQTvupH8lqwXZwie0yL-irqY7rR4epUUZMMZaXpaPkOV2bJs6sQBwVVER9_TfWlmlYrkA=w761-h915-no?authuser=0" width="400">
 
 __Feedback:__
 - The representation of red meat with red color is good
@@ -49,7 +49,6 @@ __Feedback:__
 
 **Iteration 2:**
 
-![alt]("/Critique/Images/2.jpg")
 <img src="/Critique/Images/2.jpg" width="400">
 
 __Feedback:__
