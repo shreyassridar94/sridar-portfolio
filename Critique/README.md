@@ -33,6 +33,6 @@ I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perce
 ### Redesigning the Data Visualization
 Based on my learnings from critiquing this visualization, I created wireframes to redesign for a better visualization. I showed these wireframes to 2 other people to get feedback which further helped to shape the design.
 
-![alt](https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/1.jpg = 400x)
-
+![alt](https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/1.jpg)
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/1.jpg" width="48">
 
