@@ -49,6 +49,7 @@ __Feedback:__
 
 **Iteration 2:**
 
+![alt]("/Critique/Images/2.jpg")
 <img src="/Critique/Images/2.jpg" width="400">
 
 __Feedback:__
