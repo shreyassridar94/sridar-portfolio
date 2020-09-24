@@ -34,6 +34,7 @@ I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perce
 Based on my learnings from critiquing this visualization, I created wireframes to redesign for a better visualization. I showed these wireframes to 2 other people to get feedback which further helped to shape the design through multiple iterations.
 
 **Iteration 1:**
+
 <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/1.jpg" width="400">
 
 __Feedback:__
@@ -47,15 +48,33 @@ __Feedback:__
 - Changes implemented: New title narrative and corresponding label highlight, scale for x-axis and the rewritten data description to provide clarity
 
 **Iteration 2:**
+
 <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/2.jpg" width="400">
 
 __Feedback:__
-- New narrative is not intuitive with the descending order of CO2 emissions data
-- The x-axis scale is helpful
-- Changes Implemented: Data representation in terms of actual CO2 emission per kg of food, Iteration 1 narrative is repeated
+- The x-axis scale is helpful but the analogy is difficult to perceive
+- Changes Implemented: Data representation in terms of actual CO2 emission per kg of food
 
 **Iteration 3:**
+
 <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/3.jpg" width="400">
 
 __Feedback:__
+- The data representation is clear
+- Too much of red color indicates a strong message. Considering the audience of meat-eaters, the idea conveyed by the visualization may be too strong
+- The narrative is not intuitive with the descending order of CO2 emissions data
+- Changes made: Narrative changed back to iteration 1
+
+**Iteration 4:**
+
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/4.jpg" width="400">
+
+__Feedback:__
+- The visualization is simple and understandable.
+- The narrative is not too strong and it can motivate meat-eaters to change into a vegan by starting with reducing red meats
+
+
+### New Data Visualization Proposed
+<div class='tableauPlaceholder' id='viz1600946317611' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fo&#47;FoodCarbonFootprint_16009296011250&#47;RedMeatsarebadfortheenvironment&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FoodCarbonFootprint_16009296011250&#47;RedMeatsarebadfortheenvironment' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fo&#47;FoodCarbonFootprint_16009296011250&#47;RedMeatsarebadfortheenvironment&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1600946317611');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
 
