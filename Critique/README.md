@@ -35,7 +35,7 @@ Based on my learnings from critiquing this visualization, I created wireframes t
 
 **Iteration 1:**
 
-<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/1.jpg" width="400">
+<img src="/Critique/Images/1.jpg" width="400">
 
 __Feedback:__
 - The representation of red meat with red color is good
@@ -49,7 +49,7 @@ __Feedback:__
 
 **Iteration 2:**
 
-<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/2.jpg" width="400">
+<img src="/Critique/Images/2.jpg" width="400">
 
 __Feedback:__
 - The x-axis scale is helpful but the analogy is difficult to perceive
@@ -57,7 +57,7 @@ __Feedback:__
 
 **Iteration 3:**
 
-<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/3.jpg" width="400">
+<img src="/Critique/Images/3.jpg" width="400">
 
 __Feedback:__
 - The data representation is clear
@@ -67,7 +67,7 @@ __Feedback:__
 
 **Iteration 4:**
 
-<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/4.jpg" width="400">
+<img src="/Critique/Images/4.jpg" width="400">
 
 __Feedback:__
 - The visualization is simple and understandable.
