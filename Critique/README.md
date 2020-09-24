@@ -31,8 +31,31 @@ I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perce
       Due to the poor layout of the chart and multiple colors used, the visualization does not engage the user. Significant effort is required from the user to understand the chart which leads to poor engagement.
       
 ### Redesigning the Data Visualization
-Based on my learnings from critiquing this visualization, I created wireframes to redesign for a better visualization. I showed these wireframes to 2 other people to get feedback which further helped to shape the design.
+Based on my learnings from critiquing this visualization, I created wireframes to redesign for a better visualization. I showed these wireframes to 2 other people to get feedback which further helped to shape the design through multiple iterations.
 
+**Iteration 1:**
 <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/1.jpg" width="400">
-#### Feedback:
+
+__Feedback:__
+- The representation of red meat with red color is good
+- The list of food types is too long
+- Not able to understand why there is a car illustration only in the bar for lamb
+- The empty space in the chart is powerful
+- Difficult to understand the logic of the comparison data
+- Intended audience: People who eat meat, Meat industry, Policy makers
+- Suggested Changes: Make a better analogy for the car driving distance; Chart title could be redone and font size could be changed
+- Changes implemented: New title narrative and corresponding label highlight, scale for x-axis and the rewritten data description to provide clarity
+
+**Iteration 2:**
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/2.jpg" width="400">
+
+__Feedback:__
+- New narrative is not intuitive with the descending order of CO2 emissions data
+- The x-axis scale is helpful
+- Changes Implemented: Data representation in terms of actual CO2 emission per kg of food, Iteration 1 narrative is repeated
+
+**Iteration 3:**
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Critique/Images/3.jpg" width="400">
+
+__Feedback:__
 
