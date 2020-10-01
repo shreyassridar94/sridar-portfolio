@@ -11,7 +11,8 @@ The sketch below shows the story arc of the data visualization
 <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/img1.jpg?raw=true" width="800">
 
 __Elements of the story:__
-- Environmental impact of waste generation and benefits of recycling along with current rate of recycling in the US for different material types.
+- Introduction: 
+- - Environmental impact of waste generation and benefits of recycling along with current rate of recycling in the US for different material types.
 - US export of trash to other countries over the years and how China's ban on import of trash is affecting the US
 - Increase in the volume of trash due to people staying at homes during the COVID-19 pandemic
 - Problems of single stream recycling, incorrect sorting of waste, increasing cost of recycled material whereas virgin materials are very cheap
