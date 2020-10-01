@@ -17,7 +17,7 @@ __Elements of the story:__
   - US export of trash to other countries over the years and how China's ban on import of trash is affecting the US
   - Increase in the volume of trash due to people staying at homes during the COVID-19 pandemic
   - Problems of single stream recycling, incorrect sorting of waste, increasing cost of recycled material whereas virgin materials are very cheap
--  Improving recycling in the US:
+- Improving recycling in the US:
   - Proper ways to recycle with examples of countries with best practices like Sweden
   - Increase trends of new eco-friendly products and interest of people to buy such products
 - __Call to action__: Change in recycling practices, methods and environment friendly product choices by the reader
