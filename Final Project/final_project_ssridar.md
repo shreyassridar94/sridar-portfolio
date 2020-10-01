@@ -1,7 +1,7 @@
 # Final Project
 
 ## Outline
-For my final project, I want to create a data visualization story about the state of recycling in the US. I want the reader to see the story that waste recycling in the US will fail unless we change our recycling practices and behavior as well as fix local waste management systems.
+For my final project, I want to create a data visualization story about the state of recycling in the US and how it can be improved. 
 
 In the past, local governments in the US collected garbage and recyclables from the residents and processed it at the materials recovery facility. These facilities used manual labor and automated systems to sort the recyclables in the waste into different material types to recycle them and sell them in the market. The recyclable waste is collected in most of the places in the Us through single stream recycling which means all types of materials are collected in the same bin. Even though, this reduces the cost of garbage collection, sorting these materials is very hard even with the use of automated robotic systems considering the high volume of trash. Hence, the   
 
@@ -36,7 +36,8 @@ For the different elements mentioned above, I have found the following open data
 ## Method and Medium
 I am planning to make the data visualizations using Tableau. To present the story in a webpage format, I am going to use [Shorthand](https://shorthand.com/)
 
-
+Desired outcome of this story:
+I want the reader to see the story that waste recycling in the US will fail unless we change our recycling practices and behavior as well as fix local waste management systems. I want them to understand that what they are doing wrong so that they can change their habits and find ways to save the environment. After reading this story, I want them to share this information with others and contact their local representatives to act on the problem.
 
 
 
