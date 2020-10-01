@@ -17,6 +17,6 @@ Stay tuned to see the new posts!
 # Workshop
 [Page link](/Workshop/README.md)
 
-# Project
+# Final Project
 [Page link](/Final Project/final_project_ssridar.md)
 
