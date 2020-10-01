@@ -25,8 +25,12 @@ The sketch below shows the story arc of the data visualization
 <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/img1.jpg?raw=true" width="800">
 
 The wireframe for the story is shown below:
-<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s1.jpg?raw=true" width="300"><img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s2.jpg?raw=true" width="300"><img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s3.jpg?raw=true" width="300">
 
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s1.jpg?raw=true" width="300"> <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s2.jpg?raw=true" width="300"> <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s3.jpg?raw=true" width="300">
+
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s4.jpg?raw=true" width="300"> <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s5.jpg?raw=true" width="300"> <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s6.jpg?raw=true" width="300">
+
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s7.jpg?raw=true" width="300"> <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s8.jpg?raw=true" width="300"> <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s9.jpg?raw=true" width="300">
 
 ## The Data
 For the different elements mentioned above, I have found the following open data sources 
