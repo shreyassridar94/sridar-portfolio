@@ -24,6 +24,10 @@ __Elements of the story:__
 The sketch below shows the story arc of the data visualization
 <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/img1.jpg?raw=true" width="800">
 
+The wireframe for the story is shown below:
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s1.jpg?raw=true" width="300"><img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s2.jpg?raw=true" width="300"><img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s3.jpg?raw=true" width="300">
+
+
 ## The Data
 For the different elements mentioned above, I have found the following open data sources 
 - Rate of municipal solid waste generation: [U.S. municipal solid waste generation 1960-2017](https://www.statista.com/statistics/186256/us-municipal-solid-waste-generation-since-1960/)
