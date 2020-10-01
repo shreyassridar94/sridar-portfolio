@@ -17,7 +17,7 @@ __Elements of the story:__
   - Increase in the volume of trash due to people staying at homes during the COVID-19 pandemic
   - Problems of single stream recycling, incorrect sorting of waste, increasing cost of recycled material whereas virgin materials are very cheap
 - Improving recycling in the US:
-  - Proper ways to recycle with examples of countries with best practices like Sweden
+  - Proper ways to recycle with examples of countries with best practices like Germany
   - Increase trends of new eco-friendly products and interest of people to buy such products
 - __Call to action__: Change in recycling practices, methods and environment friendly product choices by the reader
 
@@ -26,13 +26,14 @@ __Elements of the story:__
 For the different elements mentioned above, I have found the following open data sources 
 - Rate of municipal solid waste generation: [U.S. municipal solid waste generation 1960-2017](https://www.statista.com/statistics/186256/us-municipal-solid-waste-generation-since-1960/)
 - Composition of municipal solid waste collected: [Municipal waste stream materials](https://www.statista.com/statistics/185710/us-materials-generation-in-the-municipal-waste-stream-since-1960/)
-- Rate of recycling in the US:[Recovery of U.S. municipal solid waste for recycling from 1960 to 2017](https://www.statista.com/statistics/193923/recycling-of-us-municipal-solid-waste-since-1960/)
+- Rate of recycling in the US: [Recovery of U.S. municipal solid waste for recycling from 1960 to 2017](https://www.statista.com/statistics/193923/recycling-of-us-municipal-solid-waste-since-1960/)
 - Recycled paper use by purpose to show benefits of recycling: [Distribution of the utilization of recovered paper and paperboard in the United States in 2019, by type](https://www.statista.com/statistics/278261/us-recovered-paper-and-paperboard-utilization-by-type/)
 - US export of trash: [UN Comtrade Database](https://comtrade.un.org/data/) 
 - Increase in the volume trash during COVID-19 with New York City as the example: [Department of Sanitation New York(DSNY) Monthly Tonnage](https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5)
 - Incorrect sorting of waste and problems with single stream recycling with New York City as the example: [DSNY Waste Characterization: Mainsort](https://data.cityofnewyork.us/City-Government/DSNY-Waste-Characterization-Mainsort/k3ks-jzek) and [DSNY Waste Characterization: Comparison Table](https://data.cityofnewyork.us/Environment/DSNY-Waste-Characterization-Comparison-Table/sx92-yn4a)
 - [U.S. municipal solid waste generation and discards from 1960 to 2017 (in million tons)](https://www.statista.com/statistics/219791/us-municipal-solid-waste-generation-and-discards/)
 - Materials discarded in landfills: [Amount of municipal solid waste landfilled in the U.S. in 2017, by material](https://www.statista.com/statistics/503958/municipal-solid-waste-discarded-in-the-us-by-material/)
+- [Recyling stats of Germany](https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/abfallwirtschaft_2018_en_bf.pdf)
 
 
 ## Method and Medium
@@ -40,6 +41,8 @@ I am planning to make the data visualizations using Tableau. To present the stor
 
 Desired outcome of this story:
 I want the reader to see the story that waste recycling in the US will fail unless we change our recycling practices and behavior as well as fix local waste management systems. I want them to understand that what they are doing wrong so that they can change their habits and find ways to save the environment. After reading this story, I want them to share this information with others and contact their local representatives to act on the problem.
+
+
 
 
 
