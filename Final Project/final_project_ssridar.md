@@ -24,7 +24,7 @@ __Elements of the story:__
 The sketch below shows the story arc of the data visualization
 <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/img1.jpg?raw=true" width="800">
 
-The wireframe for the story is shown below:
+The initial wireframe for the story is shown below:
 
 1. <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s1.jpg?raw=true" width="300"> 2. <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s2.jpg?raw=true" width="300"> 3. <img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/Sketches/s3.jpg?raw=true" width="300">
 
