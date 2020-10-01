@@ -1,9 +1,7 @@
 # Final Project
 
 ## Outline
-For my final project, I want to create a data visualization story about the state of recycling in the US and how it can be improved. 
-
-In the past, local governments in the US collected garbage and recyclables from the residents and processed it at the materials recovery facility. These facilities used manual labor and automated systems to sort the recyclables in the waste into different material types to recycle them and sell them in the market. The recyclable waste is collected in most of the places in the Us through single stream recycling which means all types of materials are collected in the same bin. Even though, this reduces the cost of garbage collection, sorting these materials is very hard even with the use of automated robotic systems considering the high volume of trash. Hence, the   
+For my final project, I want to create a data visualization story about the state of recycling in the US and how it can be improved. Local governments in the US collected garbage and recyclable waste from the residents and processed it at the materials recovery facilities(MRF). These facilities use manual labor and automated systems to sort the recyclables in the waste into different material types to recycle them and sell them in the market. The recyclable waste is collected in most of the places in the US through single stream recycling which means all types of materials are collected in the same bin. Even though, this reduces the cost of garbage collection, sorting these materials is very hard even with the use of automated robotic systems considering the high volume of trash. Hence, the unsorted trash was exported to other Asian countries such as China, Thailand, Indonesia, Vietnam. However, in 2018, China banned the import of trash from US that does not meet the required waste segregation standards. Similarly other countries followed China which has affected the US. With increasing municipal waste generation during the COVID-19 pandemic and the need to recycle the trash inside the country, many MRFs are turning to more labor and automated systems to sort the waste which increases the cost of recycling. This reflects in the high price of recycled material which discourages manufacturers from using it. As the number of customers for the recycled materials go down, the MRFs turn to landfills to dispose the trash which causes environmental damage. Hence, the US needs to adopt best practices from other countries to recycle its waste.
 
 ## Initial Sketches
 The sketch below shows the story arc of the data visualization
@@ -33,7 +31,7 @@ For the different elements mentioned above, I have found the following open data
 - Incorrect sorting of waste and problems with single stream recycling with New York City as the example: [DSNY Waste Characterization: Mainsort](https://data.cityofnewyork.us/City-Government/DSNY-Waste-Characterization-Mainsort/k3ks-jzek) and [DSNY Waste Characterization: Comparison Table](https://data.cityofnewyork.us/Environment/DSNY-Waste-Characterization-Comparison-Table/sx92-yn4a)
 - [U.S. municipal solid waste generation and discards from 1960 to 2017 (in million tons)](https://www.statista.com/statistics/219791/us-municipal-solid-waste-generation-and-discards/)
 - Materials discarded in landfills: [Amount of municipal solid waste landfilled in the U.S. in 2017, by material](https://www.statista.com/statistics/503958/municipal-solid-waste-discarded-in-the-us-by-material/)
-- [Recyling stats of Germany](https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/abfallwirtschaft_2018_en_bf.pdf)
+- [Recyling stats of Germany](https://www.bmu.de/en/topics/water-waste-soil/waste-management/waste-management-statistics/general-waste-management/)
 
 
 ## Method and Medium
