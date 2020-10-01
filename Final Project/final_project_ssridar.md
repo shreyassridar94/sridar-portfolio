@@ -3,9 +3,8 @@
 ## Outline
 For my final project, I want to create a data visualization story about the state of recycling in the US and how it can be improved. Local governments in the US collected garbage and recyclable waste from the residents and processed it at the materials recovery facilities(MRF). These facilities use manual labor and automated systems to sort the recyclables in the waste into different material types to recycle them and sell them in the market. The recyclable waste is collected in most of the places in the US through single stream recycling which means all types of materials are collected in the same bin. Even though, this reduces the cost of garbage collection, sorting these materials is very hard even with the use of automated robotic systems considering the high volume of trash. Hence, the unsorted trash was exported to other Asian countries such as China, Thailand, Indonesia, Vietnam. However, in 2018, China banned the import of trash from US that does not meet the required waste segregation standards. Similarly other countries followed China which has affected the US. With increasing municipal waste generation during the COVID-19 pandemic and the need to recycle the trash inside the country, many MRFs are turning to more labor and automated systems to sort the waste which increases the cost of recycling. This reflects in the high price of recycled material which discourages manufacturers from using it. As the number of customers for the recycled materials go down, the MRFs turn to landfills to dispose the trash which causes environmental damage. Hence, the US needs to adopt best practices from other countries to recycle its waste.
 
-## Initial Sketches
-The sketch below shows the story arc of the data visualization
-<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/img1.jpg?raw=true" width="800">
+__Desired outcome of the story__:
+I want the reader to see the story that waste recycling in the US will fail unless we change our recycling practices and behavior as well as fix local waste management systems. I want them to understand that what they are doing wrong so that they can change their habits and find ways to save the environment. After reading this story, I want them to share this information with others and contact their local representatives to act on the problem.
 
 __Elements of the story:__
 - Introduction: 
@@ -17,8 +16,11 @@ __Elements of the story:__
 - Improving recycling in the US:
   - Proper ways to recycle with examples of countries with best practices like Germany
   - Increase trends of new eco-friendly products and interest of people to buy such products
-- __Call to action__: Change in recycling practices, methods and environment friendly product choices by the reader
+- Call to action: Change in recycling practices, methods and environment friendly product choices by the reader
 
+## Initial Sketches
+The sketch below shows the story arc of the data visualization
+<img src="https://github.com/shreyassridar94/sridar-portfolio/blob/master/Final Project/img1.jpg?raw=true" width="800">
 
 ## The Data
 For the different elements mentioned above, I have found the following open data sources 
@@ -35,10 +37,10 @@ For the different elements mentioned above, I have found the following open data
 
 
 ## Method and Medium
-I am planning to make the data visualizations using Tableau. To present the story in a webpage format, I am going to use [Shorthand](https://shorthand.com/)
+I am planning to make the data visualizations using Tableau. 
 
-Desired outcome of this story:
-I want the reader to see the story that waste recycling in the US will fail unless we change our recycling practices and behavior as well as fix local waste management systems. I want them to understand that what they are doing wrong so that they can change their habits and find ways to save the environment. After reading this story, I want them to share this information with others and contact their local representatives to act on the problem.
+To present the story in a webpage format, I am going to use [Shorthand](https://shorthand.com/)
+
 
 
 
