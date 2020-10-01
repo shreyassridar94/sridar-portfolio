@@ -35,11 +35,12 @@ For the different elements mentioned above, I have found the following open data
 - Materials discarded in landfills: [Amount of municipal solid waste landfilled in the U.S. in 2017, by material](https://www.statista.com/statistics/503958/municipal-solid-waste-discarded-in-the-us-by-material/)
 - [Recyling stats of Germany](https://www.bmu.de/en/topics/water-waste-soil/waste-management/waste-management-statistics/general-waste-management/)
 
+Some more data sources need to be identified for some elements like price of recycled materials, public interest towards recycling and current recycling practices.
 
 ## Method and Medium
-I am planning to make the data visualizations using Tableau. 
+I am planning to make the data visualizations using Tableau. By incorporating the concepts from the book [Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations](https://store.hbr.org/product/good-charts-workbook-tips-tools-and-exercises-for-making-better-data-visualizations/10209) by Scott Berinato, I want to create persuasive visualizations that make effective use of color with clarity using the appropriate charts
 
-To present the story in a webpage format, I am going to use [Shorthand](https://shorthand.com/)
+To present the story in a webpage format, I am going to use [Shorthand](https://shorthand.com/) as it allows for immersive and engaging story telling experience. Also, the platform is user-friendly for beginners like me with no prior experience in designing and coding webpages.
 
 
 
