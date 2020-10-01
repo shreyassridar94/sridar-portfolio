@@ -38,9 +38,9 @@ For the different elements mentioned above, I have found the following open data
 Some more data sources need to be identified for some elements like price of recycled materials, public interest towards recycling and current recycling practices.
 
 ## Method and Medium
-I am planning to make the data visualizations using Tableau. By incorporating the concepts from the book [Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations](https://store.hbr.org/product/good-charts-workbook-tips-tools-and-exercises-for-making-better-data-visualizations/10209) by Scott Berinato, I want to create persuasive visualizations that make effective use of color with clarity using the appropriate charts
+I am planning to make the data visualizations using Tableau. By incorporating the concepts from the book [Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations](https://store.hbr.org/product/good-charts-workbook-tips-tools-and-exercises-for-making-better-data-visualizations/10209) by Scott Berinato, I want to create persuasive visualizations that make effective use of color with clarity using the appropriate charts. 
 
-To present the story in a webpage format, I am going to use [Shorthand](https://shorthand.com/) as it allows for immersive and engaging story telling experience. Also, the platform is user-friendly for beginners like me with no prior experience in designing and coding webpages.
+To present the story in a webpage format, I am going to use [Shorthand](https://shorthand.com/) as it allows for immersive and engaging story telling experience. Also, the platform is user-friendly for beginners like me with no prior experience in designing and coding webpages. To help me plan the story, I used the story arc method as mentioned above which helped me identify the different elements of the story that are required. Also, I will be using wireframes to build the visualizations and get feedback and critique from others. Based on the feedback, changes will be made to the visualizations. 
 
 
 
