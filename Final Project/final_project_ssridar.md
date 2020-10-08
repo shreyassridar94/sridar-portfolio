@@ -59,7 +59,7 @@ To present the story in a webpage format, I am going to use [Shorthand](https://
 <div class="flourish-embed flourish-chart" data-src="visualisation/3953035" data-url="https://flo.uri.sh/visualisation/3953035/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <iframe src="https://public.tableau.com/views/USPlasticWasteExports/PlasticWasteExportsin2017?:language=en&:display_count=y&:embed=yes&:display_count=yes&:showVizHome=no" 
-width="100%" height="1000"></iframe>
+width="100%" height="1024"></iframe>
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3944029" data-url="https://flo.uri.sh/visualisation/3944029/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
