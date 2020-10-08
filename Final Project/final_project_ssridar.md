@@ -1,6 +1,7 @@
 # Final Project
-### Recycling in the US
+## Recycling in the US
 
+## Part I
 ## Outline
 For my final project, I want to create a data visualization story about the state of recycling in the US and how it can be improved. Local governments in the US collected garbage and recyclable waste from the residents and processed it at the materials recovery facilities(MRF). These facilities use manual labor and automated systems to sort the recyclables in the waste into different material types to recycle them and sell them in the market. The recyclable waste is collected in most of the places in the US through single stream recycling which means all types of materials are collected in the same bin. Even though, this reduces the cost of garbage collection, sorting these materials is very hard even with the use of automated robotic systems considering the high volume of trash. Hence, the unsorted trash was exported to other Asian countries such as China, Thailand, Indonesia, Vietnam. However, in 2018, China banned the import of trash from US that does not meet the required waste segregation standards. Similarly other countries followed China which has affected the US. With increasing municipal waste generation during the COVID-19 pandemic and the need to recycle the trash inside the country, many MRFs are turning to more labor and automated systems to sort the waste which increases the cost of recycling. This reflects in the high price of recycled material which discourages manufacturers from using it. As the number of customers for the recycled materials go down, the MRFs turn to landfills to dispose the trash which causes environmental damage. Hence, the US needs to adopt best practices from other countries to recycle its waste.
 
@@ -51,7 +52,11 @@ I am planning to make the data visualizations using Tableau. By incorporating th
 
 To present the story in a webpage format, I am going to use [Shorthand](https://shorthand.com/) as it allows for immersive and engaging story telling experience. Also, the platform is user-friendly for beginners like me with no prior experience in designing and coding webpages. To help me plan the story, I used the story arc method as mentioned above which helped me identify the different elements of the story that are required. Also, I will be using wireframes to build the visualizations and get feedback and critique from others. Based on the feedback, changes will be made to the visualizations. A presentation based on the Shorthand story will be made by me at the end of the project.
 
+## Part II
 
+## Wireframes
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3944029" data-url="https://flo.uri.sh/visualisation/3944029/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
