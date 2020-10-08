@@ -81,4 +81,6 @@ width="100%" height="900"></iframe>
 
 ## User Research
 
-- TBD
+### Protocol
+
+Target Audience: For my data visualization story, I identified people living in residential houses as the audience. Through this story, I want to bring light on the current state of recycling in the US, the macro effects in the waste management industry and the effect of their actions on the recycling process.
