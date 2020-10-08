@@ -56,6 +56,8 @@ To present the story in a webpage format, I am going to use [Shorthand](https://
 
 ## Wireframes
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/3953035" data-url="https://flo.uri.sh/visualisation/3953035/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/3944029" data-url="https://flo.uri.sh/visualisation/3944029/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3942821" data-url="https://flo.uri.sh/visualisation/3942821/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
