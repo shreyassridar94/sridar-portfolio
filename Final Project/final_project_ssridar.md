@@ -84,3 +84,16 @@ width="100%" height="900"></iframe>
 ### Protocol
 
 Target Audience: For my data visualization story, I identified people living in residential houses as the audience. Through this story, I want to bring light on the current state of recycling in the US, the macro effects in the waste management industry and the effect of their actions on the recycling process.
+
+Identifying representative individuals: Pittsburgh is diverse in its population with university students and working professionals. For a representation of all types of audience, I identified a graduate student studying at CMU, a working professional currently residing at Chicago.
+
+Interview Script: 
+  Hi, I have created a story about recycling in the US using data visualizations. Kindly view the story presented in the link provided and answer the following questions.
+1. Can you describe the story as you understood after reading through it?
+2. Did you find the story compelling?
+3. What worked well in the story and the visualizations?
+4. What are the things that you do not like in the visualizations?
+5. What are the improvements that you would suggest to make the story better?
+6. Are you interested in completing the call to action?
+
+Interview Findings:
